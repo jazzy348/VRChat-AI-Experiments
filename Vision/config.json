@@ -1,5 +1,5 @@
 {
 	"max_distance": 0.6,
 	"min_distance": 0.3,
-	"deadzone": 0.15,
+	"deadzone": 0.15
 }
